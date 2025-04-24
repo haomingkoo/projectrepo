@@ -1,3 +1,3 @@
-# Main Branch Title
+# Final Resolved Title
 
-This is the README as edited on the main branch.
+This is the merged README after resolving the conflict.
